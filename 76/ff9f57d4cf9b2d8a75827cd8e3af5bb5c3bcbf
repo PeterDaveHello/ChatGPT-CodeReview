@@ -1,0 +1,32 @@
+src/chat.ts
+  s_fbd0e08db9b19a::t_36aceeba39c201 91,95
+  s_fbd0e08db9b19a::t_2b1fa993b90895 8-11
+  s_2df724b49efdc4::t_2bca3544e5a39d 36-47
+test/chat.test.ts
+  s_fbd0e08db9b19a::t_62cedffd93ff2c 76-83
+  s_fbd0e08db9b19a::t_8bea7413050061 73-75
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "76ff9f57d4cf9b2d8a75827cd8e3af5bb5c3bcbf",
+  "prompts": {},
+  "sessions": {
+    "s_2df724b49efdc4": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "019f3130-35c6-7e92-8a80-a104244a3769",
+        "model": "unknown"
+      },
+      "human_author": "Ubuntu <peter@jitsi.peterhsu.tw>"
+    },
+    "s_fbd0e08db9b19a": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_0cecf62daffebp0ftPsu1Mar23",
+        "model": "big-pickle"
+      },
+      "human_author": "Ubuntu <peter@jitsi.peterhsu.tw>"
+    }
+  }
+}
